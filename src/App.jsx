@@ -18,6 +18,9 @@ function App() {
       <button className="bg-blue-500 text-white px-4 py-2 rounded-md m-1 cursor-pointer">
         Submit
       </button>
+      <button className="bg-blue-500 text-white px-4 py-2 rounded-md m-1 cursor-pointer">
+        Login
+      </button>
     </>
   )
 }
